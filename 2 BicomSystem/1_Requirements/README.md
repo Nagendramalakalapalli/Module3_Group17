@@ -49,3 +49,13 @@ This Project is an BiCom System, and is designed to remotely know the statues of
 | LLR03 |When user press button three times ON all the LED's in clock wise direction|
 | LLR04 |When user press button one time ON all the LED's in anticlock wise direction|
 
+## Advantages
+* Time Saving
+* Decreases the number of accidents
+* Time-saving system increased saftey and security
+
+## Application
+* Car system
+* Flight system
+* Train-saving system
+* Industrial safety and security
