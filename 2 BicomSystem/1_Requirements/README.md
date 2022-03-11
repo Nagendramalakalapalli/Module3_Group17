@@ -14,21 +14,21 @@ This Project is an BiCom System, and is designed to remotely know the statues of
 
 # 5W's and 1'H
 ## Who
-### User who wants to know Status Remotely.
+### User who wants to know Status Remotely
 
 ## What
-### Remote wireless key for car/automotives.
+### Remote wireless key for car/automotives
 
 ## When
-### To know status of window,Alarm,Battery,Door. 
+### To know status of window,Alarm,Battery,Door
 
 ## Where
-### When User is away/inside the car.
+### When User is away/inside the car
 
 ## Why
-### To know the status of features of the car.
+### To know the status of features of the car
 ## How
-### Using Blue switch by blinking the LED's to known status of window,alaram, Battery, Door.
+### Using Blue switch by blinking the LED's to known status of window,alaram, Battery, Door
 
 # Reqirements
 ## High Level Requirement
