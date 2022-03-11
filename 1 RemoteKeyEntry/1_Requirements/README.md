@@ -35,7 +35,9 @@ An RKE is some kind of an electronic lock which is alternative to using a tradit
 
 | ID | Description|
 |:---:|:---:|
-|LLR-1|Sensor shall not send any signals to control unit when there is no Object|
-|LLR-2|The control unit shall stop the control on actuator when there is no object present|
+|LLR-1| When user presses the button, all the LED's shall glow indicating that door is locked|
+|LLR-2| When user presses the button twice, all the LED's shall go off indicating that door is unlocked|
+|LLR-3| When user presses the button thrice, all the LED's shall on in clockwise manner|
+|LLR-4| When user presses the button four times, all the LED's shall on in anti-clockwise manner|
 
 
