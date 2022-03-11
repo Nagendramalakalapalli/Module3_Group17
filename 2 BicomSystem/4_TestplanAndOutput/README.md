@@ -4,20 +4,20 @@
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
-|TD_01|Car Window Status|Button_Press "1 Time"|Window Status|Window Status||
-|TD_02|Car Alarm Status|Button_Press "2 Times"|Alarm Status|Alarm Status||
-|TD_03|Car Battery Information Status|Button_Press "3 Times"|Battery Status|Battery Status||
-|TD_04|Car Door Status|Button_Press "4 Times"|Door Status|Door StatusT||
+|TD_01|Car Window Status|Button_Press "1 Time"|Window Status|Window Status|Pass :white_check_mark:|
+|TD_02|Car Alarm Status|Button_Press "2 Times"|Alarm Status|Alarm Status|Pass :white_check_mark:|
+|TD_03|Car Battery Information Status|Button_Press "3 Times"|Battery Status|Battery Status|Pass :white_check_mark:|
+|TD_04|Car Door Status|Button_Press "4 Times"|Door Status|Door StatusT|Pass :white_check_mark:|
 
 
 ## **LOW LEVEL TEST PLAN**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
-|TD_01|Car Window Status|Button_Press "1 Time"|All LED's "ON" & print"WINDOW STATUS"|All LED's "ON" & print"WINDOW STATUS"||
-|TD_02|Car Alarm Status|Button_Press "2 Times"|All LED's "ON" & print"ALARM STATUS"|All LED's "ON" & print"ALARM STATUS"||
-|TD_03|Car Battery Information Status|Button_Press "3 Times"|All LED's "ON CLOCKWISE" & print "BATTERY STATUS"|All LED's "ON CLOCKWISE" & print "BATTERY STATUS"||
-|TD_04|Car Door Status|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" & print "DOOR STATUS"|All LED's "ON ANTI-CLOCKWISE" & print "DOOR STATUS"||
+|TD_01|Car Window Status|Button_Press "1 Time"|All LED's "ON"|All LED's "ON" |Pass :white_check_mark:|
+|TD_02|Car Alarm Status|Button_Press "2 Times"|All LED's "OFF" |All LED's "OFF" |Pass :white_check_mark:|
+|TD_03|Car Battery Information Status|Button_Press "3 Times"|All LED's "ON CLOCKWISE" |All LED's "ON CLOCKWISE" |Pass :white_check_mark:|
+|TD_04|Car Door Status|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" |All LED's "ON ANTI-CLOCKWISE" |Pass :white_check_mark:|
 
 ## **OUTPUT**
 ![Page-1](https://user-images.githubusercontent.com/82401251/157878406-df2ec1df-6c30-4eea-ac0f-9f899309b2e8.png)
