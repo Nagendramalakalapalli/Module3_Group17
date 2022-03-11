@@ -1,5 +1,7 @@
 # Structural Diagrams
 ## High Level
+![HLS](https://user-images.githubusercontent.com/98841253/157863574-6555b2d2-ebdd-4463-9187-f3a52eca44eb.JPG)
+
 ## Low Level
 
 # Behavioral Diagrams
