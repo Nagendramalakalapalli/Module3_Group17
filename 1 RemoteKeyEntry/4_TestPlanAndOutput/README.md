@@ -14,10 +14,10 @@
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
-|TD_01|Car Lock|Button_Press "1 Time"|All LED's "ON" & print"LOCK"|All LED's "ON"|Done :white_check_mark:|
+|TD_01|Car Lock|Button_Press "1 Time"|All LED's "ON"|All LED's "ON"|Done :white_check_mark:|
 |TD_02|Car Unlock|Button_Press "2 Times"|All LED's "OFF" |All LED's "OFF" |Done :white_check_mark:|
 |TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|All LED's "ON CLOCKWISE" |All LED's "ON CLOCKWISE" |Done :white_check_mark:|
-|TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" & print "APPROACH LIGHT"|All LED's "ON ANTI-CLOCKWISE" |Done :white_check_mark:|
+|TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE"|All LED's "ON ANTI-CLOCKWISE" |Done :white_check_mark:|
 
 ## **OUTPUTS**
 
