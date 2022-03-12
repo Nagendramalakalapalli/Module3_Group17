@@ -13,7 +13,7 @@
 #include<stdbool.h>
 
 /**
- * @brief PREPROCESSOR
+ * @brief PREPROCESSORS
  * @author Malakalapalli Nagendra
  * 
  */
