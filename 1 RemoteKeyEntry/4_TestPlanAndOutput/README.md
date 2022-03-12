@@ -8,6 +8,7 @@
 |TD_02|Car Unlock|Button_Press "2 Times"|UNLOCK|UNLOCK|Pass :white_check_mark:|
 |TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|ALARM ACTIVATION/DEACTIVATION|ALARM ACTIVATION/DEACTIVATION|Pass :white_check_mark:|
 |TD_04|Approach Light|Button_Press "4 Times"|APPROACH LIGHT|APPROACH LIGHT|Pass :white_check_mark:|
+|TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
 
 ## **LOW LEVEL TEST PLAN**
@@ -18,6 +19,7 @@
 |TD_02|Car Unlock|Button_Press "2 Times"|All LED's "OFF" |All LED's "OFF" |Pass :white_check_mark:|
 |TD_03|Alarm Activation/Deactivation|Button_Press "3 Times"|All LED's "ON CLOCKWISE" |All LED's "ON CLOCKWISE" |Pass :white_check_mark:|
 |TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE"|All LED's "ON ANTI-CLOCKWISE" |Pass :white_check_mark:|
+|TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
 ## **OUTPUTS**
 

@@ -8,6 +8,7 @@
 |TD_02|Car Alarm Status|Button_Press "2 Times"|Alarm Status|Alarm Status|Pass :white_check_mark:|
 |TD_03|Car Battery Information Status|Button_Press "3 Times"|Battery Status|Battery Status|Pass :white_check_mark:|
 |TD_04|Car Door Status|Button_Press "4 Times"|Door Status|Door StatusT|Pass :white_check_mark:|
+|TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
 
 ## **LOW LEVEL TEST PLAN**
@@ -18,6 +19,7 @@
 |TD_02|Car Alarm Status|Button_Press "2 Times"|All LED's "OFF" |All LED's "OFF" |Pass :white_check_mark:|
 |TD_03|Car Battery Information Status|Button_Press "3 Times"|All LED's "ON CLOCKWISE" |All LED's "ON CLOCKWISE" |Pass :white_check_mark:|
 |TD_04|Car Door Status|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE" |All LED's "ON ANTI-CLOCKWISE" |Pass :white_check_mark:|
+|TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
 ## **OUTPUT**
 ![Page-1](https://user-images.githubusercontent.com/82401251/157878406-df2ec1df-6c30-4eea-ac0f-9f899309b2e8.png)
