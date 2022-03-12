@@ -1,13 +1,17 @@
-## **BLOCK DIAGRAM**
-![Block_Diagram](https://user-images.githubusercontent.com/82401251/157806236-5fce1a61-f44f-406a-a154-8754939f195a.jpg)
+## 1 **BLOCK DIAGRAM**
 
-## **FLOW CHART**
-![Flowchart](https://user-images.githubusercontent.com/82401251/157806233-136b279a-b7bf-4c29-bd0e-4f0289b99fb8.jpg)
+### 1.1 High Level Flow Chart Behavioural Diagram
+![ffdia2](https://user-images.githubusercontent.com/98951784/158000106-216cbc54-52f4-49db-b712-3cc943503f04.png)
 
-## **HIGH LEVEL DIAGRAM**
-![HighLevelDiagram](https://user-images.githubusercontent.com/82401251/157806224-25a46819-7e2b-4355-86b3-2c9bb9d03b5c.jpg)
+### 1.2 1.1 Low Level Flow Chart Behavioural Diagram
+![ffdia333](https://user-images.githubusercontent.com/98951784/158000111-1cd05cef-9eeb-4436-b0b5-0704dba18b90.png)
 
-## **LOW LEVEL DIAGRAM**
-![LowLevelDiagram](https://user-images.githubusercontent.com/82401251/157806213-7581bdad-0aec-478a-af29-536502575c6e.jpg)
+## 2 **STRUCTURAL DIAGRAM**
+### 2.1 Use Case Structural Diagram
+![ffdia44](https://user-images.githubusercontent.com/98951784/158000135-4567c32e-9099-48a8-b45d-97860e5f08c7.png)
 
+
+
+### 2.2 Functional Diagram
+![ffdia](https://user-images.githubusercontent.com/98951784/158000126-3ffde16d-e7a5-417d-b1d7-9b2a12ace6d8.png)
 
