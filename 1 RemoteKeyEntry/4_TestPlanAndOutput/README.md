@@ -1,6 +1,6 @@
-# **TESTPLAN AND OUTPUT**
+# **Testplan AND Output**
 
-## **HIGH LEVEL TEST PLAN**
+## **High Level Test Plan**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 |TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
 
-## **LOW LEVEL TEST PLAN**
+## **Low Level Test Plan**
 
 |Test_ID|Description|Input|Expected O/P|Actual O/P|Status|
 ---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 |TD_04|Approach Light|Button_Press "4 Times"|All LED's "ON ANTI-CLOCKWISE"|All LED's "ON ANTI-CLOCKWISE" |Pass :white_check_mark:|
 |TD_05|Data Encryption|Random click|Pattern|Pattern|Pass :white_check_mark:|
 
-## **OUTPUTS**
+## **Outputs**
 
 ![Page-1](https://user-images.githubusercontent.com/82401251/157878406-df2ec1df-6c30-4eea-ac0f-9f899309b2e8.png)
 
