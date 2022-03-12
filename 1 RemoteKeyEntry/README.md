@@ -4,7 +4,7 @@
        - 1.1 Abstract
        - 1.2 Description
        - 1.3 SWOT
-       - 5W's And 1H
+       - 1.4 5W's And 1H
   - 2.Requirements
     - 2.1 High Level Requirements
     - 2.2 Low Level Requirements
