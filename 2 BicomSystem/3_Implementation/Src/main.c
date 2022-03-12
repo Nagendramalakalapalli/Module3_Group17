@@ -9,8 +9,8 @@
  * 
  */
 
-#include <stdio.h>
 #include "MyStm32f407xx.h"
+#include <stdio.h>
 #include<stdbool.h>
 
 /**
